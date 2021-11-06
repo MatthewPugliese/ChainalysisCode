@@ -1,0 +1,51 @@
+/* formats the style of all the different components */
+.app{
+  min-height: 100vh;
+  background-color: lightgray;
+}
+
+.Exchange{
+  height: 400px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  background-color: paleturquoise;
+}
+
+.Heading{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Middle{
+  background-color: lightgray;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Recommendations{
+  height: 400px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  background-color: palegreen;
+}
+
+.Watermark{
+  text-align: right;
+  font-weight:lighter;
+}
