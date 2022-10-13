@@ -13,4 +13,4 @@ Make sure that you start the backend server (ChainalysisTestApplication.java) fi
 A simple video demonstrating how to start the program can be found at: https://www.youtube.com/watch?v=3PjG1_mNJgY
 
 
-If there are any issues with building or running any aspect of the program, feel free to contact my at mfpugliese@colgate.edu or (914) 708-7991.
+If there are any issues with building or running any aspect of the program, feel free to contact me at mfpugliese@colgate.edu or (914) 708-7991.
